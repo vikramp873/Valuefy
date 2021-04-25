@@ -1,0 +1,21 @@
+*{
+   box-sizing:border-box;
+   padding:0;
+   margin:0;
+ }
+ 
+ .header{
+   color: #919191;
+ }
+ 
+ .info i, .info p{
+   color: #919191;
+ }
+ 
+ div.bl{
+   border-left: 1px solid #14A388;
+ }
+ 
+ .table h4{
+   font-size: 16px;
+ }
